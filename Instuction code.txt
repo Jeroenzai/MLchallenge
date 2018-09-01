@@ -1,6 +1,0 @@
-#First run until modelling for all the preprocessing steps
-#Then run all the learning algorithms for testing and model selection, remove comments for correct steps in model selection.
-- See evaluation for all results of the steps.
-#For optimazation, run optimalisation.
-#For internal test set, run evaluation internal test set
-#For coda lab submission and final prediction, run preparation codalab.
