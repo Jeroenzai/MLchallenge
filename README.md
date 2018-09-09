@@ -1,7 +1,7 @@
 # MLchallenge
 Assignment for the course Machine Learning where a prediction had to be made whether spoken data matched with written data.
 
-The goal was to predict whether spoken and written number match. First de data as cleaned, prepared and the spoken data was joined together. Afterwards diverse machine learning techniques were applied after different steps of pre-processing (scaling, upsampling the underrepresentad matched numberes) The result was an F1-score of 83.1% on the test data via a Multi Layer Perceptron.
+The goal was to predict whether spoken and written number match. First the data was cleaned, prepared, and the spoken data was joined together. Afterwards diverse machine learning techniques were applied after different steps of pre-processing (scaling, upsampling the underrepresented matched numbers) The result was an F1-score of 83.1% on the test data via a Multi Layer Perceptron.
 
 This repository contains the following map and files:
 
